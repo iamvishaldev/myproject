@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About
 
-A simple javascrip App
+A simple javascrip Application
 
 ## Available Scripts
 
